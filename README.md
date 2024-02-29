@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mogy のポートフォリオ
 
-## Getting Started
+## 自己紹介
 
-First, run the development server:
+コーディングとフロントエンド技術に関心を持ち、勉強・勤労してきた Mogy です。
+成果としてデザインや機能が眼に見える形で表現されることを魅力と感じています。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+技術的な面では、主に、React、Next.js を利用したプロダクトに参画してきました。
+関係者に自分について紹介するときに利用したく、ポートフォリオのリニューアルに取り組みました。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ポートフォリオの目的
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ポートフォリオを通じて、人となりから技術スタックまでご紹介したいと思います。
+個人開発はないため、どのような経験を持っているか、ということを中心に見ていただけたらと思います。
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## ポートフォリオリニューアルの動機
 
-## Learn More
+旧ポートフォリオを作成した後、ポートフォリオの力も借りて開発会社に入社することができました。
+会社で開発を進めるうちに手に入れた技術を利用して、改めて今のレベルでポートフォリオを作成したいと思いリニューアルに至りました。
 
-To learn more about Next.js, take a look at the following resources:
+## プロジェクト一覧
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. ブログ
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **技術スタック**: Next.js, SCSS, MicroCMS
+- **概要**: 最近更新していない活動報告ブログです。プログラマーに向けた最初のプロダクトかもしれません。
 
-## Deploy on Vercel
+### 2. ポートフォリオ（旧）
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **技術スタック**: TypeScript, Next.js, SCSS, MicroCMS
+- **概要**: リニューアル前のポートフォリオです。初めて TypeScript を利用しています。まだ、pages router です。
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 技術スキル
+
+- **プログラミング/マークアップ言語**: HTML, JavaScript, TypeScript
+- **フレームワーク/ライブラリ**: React, Next.js, SCSS, Tailwind.css
+- **ツール**: Git, Warp, Slack, Gather, Notion, Cursor, VSCode
+
+## 連絡先情報とソーシャルメディア
+
+- **メール**: hatano14150@gmail.com
+- **GitHub**: [https://github.com/Mogy1945](https://github.com/Mogy1945)
+- **Twitter**: [https://twitter.com/xunmogy2022](https://twitter.com/xunmogy2022)

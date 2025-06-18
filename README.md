@@ -33,7 +33,7 @@
 ## 技術スキル
 
 - **プログラミング/マークアップ言語**: HTML, JavaScript, TypeScript
-- **フレームワーク/ライブラリ**: React, Next.js, SCSS, Tailwind.css
+- **フレームワーク/ライブラリ**: React, Next.js, SCSS, Tailwind CSS
 - **ツール**: Git, Warp, Slack, Gather, Notion, Cursor, VSCode
 
 ## 連絡先情報とソーシャルメディア

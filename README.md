@@ -41,3 +41,32 @@
 - **メール**: hatano14150@gmail.com
 - **GitHub**: [https://github.com/Mogy1945](https://github.com/Mogy1945)
 - **Twitter**: [https://twitter.com/xunmogy2022](https://twitter.com/xunmogy2022)
+
+## 環境要件
+
+- Node.js 18 以上
+- npm
+
+## インストール
+
+依存パッケージをインストールします。
+
+`npm install`
+
+## 開発サーバー
+
+開発サーバーを起動します。`http://localhost:3000` でアプリを確認できます。
+
+`npm run dev`
+
+## 本番ビルド
+
+本番用のビルドを作成します。
+
+`npm run build`
+
+## テスト実行
+
+Jest を利用したテストを実行します。
+
+`npm test`

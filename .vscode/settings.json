@@ -1,5 +1,4 @@
-// NOTE: VSCodeでは第一階層にtsconfig.jsonが存在しない時にエラーが出るため、参照ディレクトリを変更する。
-// @ref: https://zenn.dev/taichifukumoto/scraps/45be5ffdfa8457
+// Set to the project root so ESLint can find tsconfig.json
 {
   "eslint.workingDirectories": ["./"]
 }

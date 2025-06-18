@@ -7,7 +7,7 @@ const NotoSansJp = Noto_Sans_JP({ subsets: ["latin"] });
 
 const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
-    <html lang="en">
+    <html lang="ja">
       <body className={clsx(`bg-[#e0f7ff]`, NotoSansJp.className)}>
         {children}
       </body>

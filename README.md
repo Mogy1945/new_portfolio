@@ -42,6 +42,14 @@
 - **GitHub**: [https://github.com/Mogy1945](https://github.com/Mogy1945)
 - **Twitter**: [https://twitter.com/xunmogy2022](https://twitter.com/xunmogy2022)
 
+## ライセンス
+
+本リポジトリは [MIT License](LICENSE) のもとで公開されています。
+
+## コントリビュート
+
+Issue や Pull Request を歓迎します。詳しくは [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
+
 ## 環境要件
 
 - Node.js 18 以上

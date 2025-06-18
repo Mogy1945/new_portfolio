@@ -1,12 +1,14 @@
-import NextLink from "next/link";
+import NextLink, { LinkProps } from "next/link";
+import type { ComponentPropsWithoutRef } from "react";
 
-type Props = {
-  href: string;
-  children: React.ReactNode;
-  target?: "_blank" | "_self" | "_parent" | "_top";
-};
+type Props = LinkProps & ComponentPropsWithoutRef<"a">;
 
-export const Link = ({ href, children, target = "_self", ...props }: Props) => {
+export const Link = ({
+  href,
+  children,
+  target = "_self",
+  ...props
+}: Props) => {
   const rel = target === "_blank" ? "noopener noreferrer" : undefined;
   return (
     <NextLink href={href} target={target} rel={rel} {...props}>

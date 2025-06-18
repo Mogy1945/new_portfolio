@@ -49,3 +49,32 @@
 ## コントリビュート
 
 Issue や Pull Request を歓迎します。詳しくは [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
+
+## 環境要件
+
+- Node.js 18 以上
+- npm
+
+## インストール
+
+依存パッケージをインストールします。
+
+`npm install`
+
+## 開発サーバー
+
+開発サーバーを起動します。`http://localhost:3000` でアプリを確認できます。
+
+`npm run dev`
+
+## 本番ビルド
+
+本番用のビルドを作成します。
+
+`npm run build`
+
+## テスト実行
+
+Jest を利用したテストを実行します。
+
+`npm test`

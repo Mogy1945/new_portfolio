@@ -75,6 +75,11 @@ Issue や Pull Request を歓迎します。詳しくは [CONTRIBUTING.md](CONTR
 
 ## テスト実行
 
-Jest を利用したテストを実行します。
+Jest を利用したテストを実行します。依存パッケージが未インストールのまま
+`npm test` を実行すると失敗することがあるため、あらかじめ `npm install`
+を実行してください。
 
-`npm test`
+```
+npm install
+npm test
+```

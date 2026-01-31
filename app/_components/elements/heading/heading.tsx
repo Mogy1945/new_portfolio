@@ -8,12 +8,12 @@ type Props = ComponentProps<"h1"> & {
 };
 
 const variantStyle = {
-  h1: "text-3xl font-bold leading-normal",
-  h2: "",
-  h3: "",
-  h4: "",
-  h5: "",
-};
+    h1: "text-3xl md:text-4xl font-bold leading-tight",
+  h2: "text-2xl md:text-3xl font-bold leading-tight",
+  h3: "text-xl md:text-2xl font-semibold leading-snug",
+  h4: "text-lg md:text-xl font-semibold leading-snug",
+  h5: "text-base md:text-lg font-medium leading-normal",
+
 
 export const Heading = ({ as, children }: Props) => {
   const Component = as;
